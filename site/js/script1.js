@@ -1,1 +1,1 @@
-alert('Привет Gitler!');
+alert('РџСЂРёРІРµС‚, Gitler!');
